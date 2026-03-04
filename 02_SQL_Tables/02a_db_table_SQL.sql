@@ -38,3 +38,4 @@ INSERT INTO test VALUES();
 
 /* ---- Inhalte der Tabelle anzeigen ---- */
 SELECT * FROM test;
+#cool!
